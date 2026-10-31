@@ -1,0 +1,9 @@
+.DS_Store
+app/node_modules/
+app/.expo/
+app/ios/
+app/android/
+app/.claude/
+app/.kotlin/
+kit/.mock-state.json
+kit/fixtures/oversize.csv
